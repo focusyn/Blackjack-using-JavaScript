@@ -1,2 +1,2 @@
 ## Blackjack web game using JavaScript
-## Made by me
+now hosted on https://focusyn.github.io/Blackjack-using-JavaScript/ 
